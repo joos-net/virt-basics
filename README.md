@@ -24,6 +24,9 @@
 6. Перейдите по [ссылке ](https://console.cloud.yandex.ru/billing?section=accounts). Выберите свой платежный аккаунт. Перейдите на вкладку детализация (фильтр "По продуктам") и оцените график потребления финансов.
 7. Удалите ВМ или пользуйтесь ею при выполнении последующих домашних заданий курса обучения.
 
+![virt1](https://github.com/joos-net/virt-basics/blob/main/virt1-1.png)
+
+![virt2](https://github.com/joos-net/virt-basics/blob/main/virt1-2.png)
 ---
 
 
